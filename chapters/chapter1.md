@@ -1,16 +1,24 @@
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
-**Área:** 
+**Área:** Software como servicio (SaaS), gestión de relaciones con clientes (CRM) y tecnología para ventas.
 
-**Novascale** es una startup formada por un equipo de estudiantes de ingeniería de software de la Universidad Peruana de Ciencias Aplicadas (UPC) que nace con la meta de 
+**NovaScale** es una startup formada por estudiantes de Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas (UPC). Surge con el propósito de diseñar soluciones digitales que ayuden a los negocios a ordenar sus procesos, aprovechar mejor su información y tomar decisiones con mayor claridad.
 
-* **Misión:** <br></br>
-* **Visión:** <br></br>
+Su primer producto, **NovaLeads**, es una plataforma CRM orientada a startups, pequeñas y medianas empresas (pymes) y equipos de ventas. NovaLeads centraliza la gestión de leads, clientes, conversaciones, oportunidades y ganancias en un solo espacio, con una experiencia pensada para equipos que requieren visibilidad de su proceso comercial sin enfrentar una configuración compleja.
+
+La propuesta de NovaScale combina una perspectiva tecnológica con la comprensión de problemas cotidianos de los negocios en crecimiento. El equipo busca construir productos funcionales, accesibles y centrados en las necesidades de sus usuarios, validando cada decisión mediante investigación, prototipos y pruebas continuas.
+
+* **Misión:** Desarrollar soluciones digitales simples y confiables que permitan a startups y pymes organizar sus procesos comerciales, fortalecer la relación con sus clientes y tomar decisiones basadas en información centralizada.
+
+* **Visión:** Ser una startup reconocida por crear productos tecnológicos accesibles y centrados en el usuario que impulsen el crecimiento sostenible de los pequeños y medianos negocios de la región.
+
 * **Valores:**
-  <br>
-    * **_** Como estudiantes de Ingeniería de Software, 
-  <br>
+  * **Orientación al usuario:** Comprendemos las necesidades reales de los usuarios y diseñamos soluciones que generen valor en su trabajo diario.
+  * **Simplicidad:** Priorizamos experiencias claras, útiles y fáciles de adoptar, evitando complejidad innecesaria.
+  * **Colaboración:** Trabajamos de manera coordinada, respetuosa y transparente para alcanzar objetivos comunes.
+  * **Aprendizaje continuo:** Validamos nuestras ideas, aceptamos la retroalimentación y mejoramos a partir de la evidencia.
+  * **Responsabilidad:** Asumimos compromiso con la calidad, la seguridad de la información y los resultados de nuestro trabajo.
    
 ### 1.1.2. Perfiles de integrantes del equipo
 
@@ -23,29 +31,35 @@
 
 **5W's y 2H's**
 
-Para definir el problema central, hemos aplicado la técnica de análisis detallado:
-<br>
+Para definir el problema central de NovaLeads, se ha aplicado la técnica 5W's y 2H's. Este análisis permite delimitar la situación que enfrentan los equipos comerciales y orientar la propuesta de solución.
 
 * **What?**
   
-  <br>
+  Las startups y pymes enfrentan dificultades para registrar, organizar y dar seguimiento a sus leads, clientes, oportunidades y conversaciones. La información comercial suele encontrarse dispersa en hojas de cálculo, correos electrónicos, aplicaciones de mensajería y notas personales, lo que limita la trazabilidad del proceso de ventas.
 
 * **Why?**
 
- <br>
+  La dispersión de información puede ocasionar seguimientos tardíos u olvidados, registros duplicados, pérdida del contexto de conversaciones y poca visibilidad sobre el estado real de las oportunidades. Como resultado, los responsables comerciales invierten tiempo consolidando datos y toman decisiones con información incompleta.
 
 * **Who?**
 
+  El problema afecta principalmente a fundadores, gerentes y responsables comerciales de startups y pymes, así como a ejecutivos, asesores y colaboradores de ventas que gestionan contactos y oportunidades de forma diaria.
 
 * **When?**
- <br>
+
+  Se presenta durante todo el ciclo comercial: al captar un lead, clasificarlo, realizar un contacto, programar una acción de seguimiento, registrar una conversación, convertirlo en cliente o analizar el resultado de una oportunidad. Se vuelve más visible cuando aumenta el número de contactos o miembros del equipo.
 
 * **Where?**
 
-  <br>
+  Ocurre en los espacios donde el equipo realiza su trabajo comercial, tanto de forma remota como presencial. La información se distribuye entre herramientas digitales independientes y dispositivos personales, sin una fuente única y actualizada.
+
 * **How?**
- <br>
+
+  Los equipos suelen resolver el problema mediante procesos manuales: registran datos en hojas de cálculo, usan agendas o recordatorios, revisan conversaciones en distintas aplicaciones y consolidan indicadores al final de un periodo. Estos mecanismos dependen del orden individual y dificultan la colaboración cuando participan varias personas.
+
 * **How much?**
+
+  El impacto se refleja en horas destinadas a buscar y consolidar información, oportunidades que no reciben seguimiento oportuno y decisiones comerciales tomadas sin datos consistentes. La magnitud exacta deberá validarse con entrevistas y pruebas con los segmentos objetivo, dado que varía según el tamaño, proceso y volumen comercial de cada negocio.
 
 
 ### 1.2.2. Lean UX Process
